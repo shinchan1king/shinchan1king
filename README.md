@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinchan1king
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in development and programming
+- 🌱 I use C++  for the programmming
+- 💞️ I love to make projects on new ideas
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/bhavy-bhavy-a42418193/
 
 <!---
